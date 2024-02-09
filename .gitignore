@@ -2,6 +2,7 @@ env/
 data/
 wandb/
 runs/
+train.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
